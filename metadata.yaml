@@ -1,5 +1,8 @@
 _repo: The-Orange-Fairy-Book_3027
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -17,6 +20,8 @@ description: Title; Contents; Preface; The Story Of The Hero Makoma; The Magic M
   The Adventures Of A Jackal; The Adventures Of The Jackal's Eldest Son; The Adventures
   Of The Younger Son Of The Jackal; The Three Treasures Of The Giants; The Rover Of
   The Plain; The White Doe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3027#The-Orange-Fairy-Book
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
